@@ -1,1 +1,1 @@
-# connect4
+# connect4 (java)
